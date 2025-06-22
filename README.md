@@ -1,5 +1,6 @@
 # titanic-ml-project
 # Project overview
+"Cleaned missing data, ran EDA, trained logistic regression – got Accuracy: 79.89%."
 
 Dataset source (Kaggle)
 
